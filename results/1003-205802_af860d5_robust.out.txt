@@ -1,0 +1,127 @@
+
+Generated 100 packets (84 scored, 168 scored actions).
+Opening COM5 at 115200 baud...
+
+[00] TX: 0x11: 59, 0x22: 27 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  13289.30 us
+[01] TX: 0x11: 21, 0x22: 56 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  16951.30 us
+[02] TX: 0x11: 39, 0x22: 83 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  16691.90 us
+[03] TX: 0x11: 16, 0x22:  8 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  17512.50 us
+[04] TX: 0x11: 66, 0x22: 67 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  16109.90 us
+[05] TX: 0x11: 24, 0x22: 85 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  16695.30 us
+[06] TX: 0x11: 44, 0x22:  1 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  20156.20 us
+[07] TX: 0x11: 36, 0x22: 49 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  14779.00 us
+[08] TX: 0x11: 35, 0x22: 67 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  15936.80 us
+[09] TX: 0x11: 83, 0x22: 59 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  16599.60 us
+[10] TX: 0x11: 11, 0x22:  6 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  16939.60 us
+[11] TX: 0x11: 73, 0x22: 36 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  17052.60 us
+[12] TX: 0x11: 94, 0x22: 33 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  16790.70 us
+[13] TX: 0x11: 83, 0x22: 24 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  16976.10 us
+[14] TX: 0x11: 68, 0x22: 65 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  16896.90 us
+[15] TX: 0x11:  3, 0x22: 13 | EXPECTED: --- , ---  | RX: 0x11:NONE, 0x22:NONE | IGNORED_WARMUP   |  16997.20 us
+[16] TX: 0x22: 69, 0x11: 32 | EXPECTED: BUY , NONE | RX: 0x22:BUY , 0x11:NONE | CORRECT          |  16888.10 us
+[17] TX: 0x11: 70, 0x22: 78 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  16983.60 us
+[18] TX: 0x11: 61, 0x22: 21 | EXPECTED: BUY , SELL | RX: 0x11:BUY , 0x22:SELL | CORRECT          |  17062.10 us
+[19] TX: 0x11: 55, 0x22: 91 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  16761.10 us
+[20] TX: 0x22: 47, 0x11: 73 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  16931.10 us
+[21] TX: 0x22: 28, 0x11: 20 | EXPECTED: SELL, SELL | RX: 0x22:SELL, 0x11:SELL | CORRECT          |  16998.60 us
+[22] TX: 0x11: 19, 0x22: 34 | EXPECTED: SELL, SELL | RX: 0x11:SELL, 0x22:SELL | CORRECT          |  16889.60 us
+[23] TX: 0x22: 49, 0x11: 75 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  17071.10 us
+[24] TX: 0x22: 62, 0x11: 16 | EXPECTED: BUY , SELL | RX: 0x22:BUY , 0x11:SELL | CORRECT          |  16921.90 us
+[25] TX: 0x22: 82, 0x11: 97 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  16975.00 us
+[26] TX: 0x11: 11, 0x22: 78 | EXPECTED: SELL, BUY  | RX: 0x11:SELL, 0x22:BUY  | CORRECT          |  17036.20 us
+[27] TX: 0x11: 22, 0x22: 64 | EXPECTED: SELL, BUY  | RX: 0x11:SELL, 0x22:BUY  | CORRECT          |  16700.30 us
+[28] TX: 0x22: 44, 0x11: 67 | EXPECTED: SELL, BUY  | RX: 0x22:SELL, 0x11:BUY  | CORRECT          |  16882.80 us
+[29] TX: 0x11: 87, 0x22: 81 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  16793.00 us
+[30] TX: 0x11: 48, 0x22: 90 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  16967.30 us
+[31] TX: 0x22: 90, 0x11: 93 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  18493.20 us
+[32] TX: 0x11: 52, 0x22: 20 | EXPECTED: SELL, SELL | RX: 0x11:SELL, 0x22:SELL | CORRECT          |  28683.80 us
+[33] TX: 0x22: 84, 0x11: 89 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  26166.40 us
+[34] TX: 0x22: 68, 0x11: 95 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  11227.30 us
+[35] TX: 0x11: 82, 0x22: 99 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  17059.30 us
+[36] TX: 0x11: 21, 0x22: 48 | EXPECTED: SELL, SELL | RX: 0x11:SELL, 0x22:SELL | CORRECT          |  16910.60 us
+[37] TX: 0x22: 80, 0x11: 87 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  16942.20 us
+[38] TX: 0x22: 28, 0x11: 22 | EXPECTED: SELL, SELL | RX: 0x22:SELL, 0x11:SELL | CORRECT          |  16944.90 us
+[39] TX: 0x22: 65, 0x11:  4 | EXPECTED: SELL, SELL | RX: 0x22:SELL, 0x11:SELL | CORRECT          |  16831.40 us
+[40] TX: 0x11: 56, 0x22: 61 | EXPECTED: SELL, SELL | RX: 0x11:SELL, 0x22:SELL | CORRECT          |  17687.20 us
+[41] TX: 0x11: 47, 0x22: 66 | EXPECTED: SELL, SELL | RX: 0x11:SELL, 0x22:SELL | CORRECT          |  20623.50 us
+[42] TX: 0x22: 74, 0x11: 46 | EXPECTED: BUY , SELL | RX: 0x22:BUY , 0x11:SELL | CORRECT          |  16105.20 us
+[43] TX: 0x22: 34, 0x11: 15 | EXPECTED: SELL, SELL | RX: 0x22:SELL, 0x11:SELL | CORRECT          |  13331.10 us
+[44] TX: 0x11: 87, 0x22:  3 | EXPECTED: BUY , SELL | RX: 0x11:BUY , 0x22:SELL | CORRECT          |  17459.40 us
+[45] TX: 0x11: 63, 0x22: 48 | EXPECTED: BUY , SELL | RX: 0x11:BUY , 0x22:SELL | CORRECT          |  17036.70 us
+[46] TX: 0x11: 59, 0x22: 35 | EXPECTED: BUY , SELL | RX: 0x11:BUY , 0x22:SELL | CORRECT          |  17036.10 us
+[47] TX: 0x22: 65, 0x11: 40 | EXPECTED: BUY , SELL | RX: 0x22:BUY , 0x11:SELL | CORRECT          |  16249.10 us
+[48] TX: 0x22: 45, 0x11: 13 | EXPECTED: SELL, SELL | RX: 0x22:SELL, 0x11:SELL | CORRECT          |  17007.60 us
+[49] TX: 0x11: 69, 0x22: 71 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  16935.90 us
+[50] TX: 0x22: 38, 0x11: 74 | EXPECTED: SELL, BUY  | RX: 0x22:SELL, 0x11:BUY  | CORRECT          |  16980.90 us
+[51] TX: 0x22: 51, 0x11: 27 | EXPECTED: BUY , SELL | RX: 0x22:BUY , 0x11:SELL | CORRECT          |  17081.00 us
+[52] TX: 0x11: 70, 0x22: 23 | EXPECTED: BUY , SELL | RX: 0x11:BUY , 0x22:SELL | CORRECT          |  16928.70 us
+[53] TX: 0x22: 98, 0x11: 57 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  16983.70 us
+[54] TX: 0x22:  9, 0x11: 75 | EXPECTED: SELL, BUY  | RX: 0x22:SELL, 0x11:BUY  | CORRECT          |  16669.40 us
+[55] TX: 0x11: 24, 0x22: 26 | EXPECTED: SELL, SELL | RX: 0x11:SELL, 0x22:SELL | CORRECT          |  16946.80 us
+[56] TX: 0x11: 20, 0x22:  8 | EXPECTED: SELL, SELL | RX: 0x11:SELL, 0x22:SELL | CORRECT          |  16901.00 us
+[57] TX: 0x22: 99, 0x11: 64 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  16905.60 us
+[58] TX: 0x22: 57, 0x11: 59 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  16947.20 us
+[59] TX: 0x22: 30, 0x11: 32 | EXPECTED: SELL, SELL | RX: 0x22:SELL, 0x11:SELL | CORRECT          |  16934.30 us
+[60] TX: 0x11: 62, 0x22: 14 | EXPECTED: BUY , SELL | RX: 0x11:BUY , 0x22:SELL | CORRECT          |  16960.70 us
+[61] TX: 0x22: 88, 0x11: 51 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  17044.60 us
+[62] TX: 0x22:  4, 0x11: 56 | EXPECTED: SELL, BUY  | RX: 0x22:SELL, 0x11:BUY  | CORRECT          |  16804.20 us
+[63] TX: 0x11: 26, 0x22: 22 | EXPECTED: SELL, SELL | RX: 0x11:SELL, 0x22:SELL | CORRECT          |  17018.80 us
+[64] TX: 0x22: 88, 0x11: 89 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  17054.30 us
+[65] TX: 0x22: 99, 0x11: 95 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  16769.60 us
+[66] TX: 0x22: 38, 0x11: 79 | EXPECTED: SELL, BUY  | RX: 0x22:SELL, 0x11:BUY  | CORRECT          |  16879.40 us
+[67] TX: 0x11: 92, 0x22: 36 | EXPECTED: BUY , SELL | RX: 0x11:BUY , 0x22:SELL | CORRECT          |  16910.40 us
+[68] TX: 0x22: 50, 0x11: 16 | EXPECTED: BUY , SELL | RX: 0x22:BUY , 0x11:SELL | CORRECT          |  21350.50 us
+[69] TX: 0x11: 51, 0x22: 89 | EXPECTED: SELL, BUY  | RX: 0x11:SELL, 0x22:BUY  | CORRECT          |  16358.00 us
+[70] TX: 0x22: 28, 0x11: 78 | EXPECTED: SELL, BUY  | RX: 0x22:SELL, 0x11:BUY  | CORRECT          |  15332.40 us
+[71] TX: 0x11: 81, 0x22: 77 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  18731.60 us
+[72] TX: 0x22: 93, 0x11: 57 | EXPECTED: BUY , SELL | RX: 0x22:BUY , 0x11:SELL | CORRECT          |  14645.60 us
+[73] TX: 0x11: 62, 0x22: 72 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  19631.30 us
+[74] TX: 0x22: 30, 0x11: 63 | EXPECTED: SELL, BUY  | RX: 0x22:SELL, 0x11:BUY  | CORRECT          |  19037.90 us
+[75] TX: 0x22: 82, 0x11: 18 | EXPECTED: BUY , SELL | RX: 0x22:BUY , 0x11:SELL | CORRECT          |  11702.80 us
+[76] TX: 0x11:  2, 0x22: 59 | EXPECTED: SELL, BUY  | RX: 0x11:SELL, 0x22:BUY  | CORRECT          |  16072.20 us
+[77] TX: 0x22: 31, 0x11: 77 | EXPECTED: SELL, BUY  | RX: 0x22:SELL, 0x11:BUY  | CORRECT          |  17543.90 us
+[78] TX: 0x11: 10, 0x22: 68 | EXPECTED: SELL, BUY  | RX: 0x11:SELL, 0x22:BUY  | CORRECT          |  16610.50 us
+[79] TX: 0x22: 49, 0x11: 69 | EXPECTED: SELL, BUY  | RX: 0x22:SELL, 0x11:BUY  | CORRECT          |  17084.70 us
+[80] TX: 0x11: 82, 0x22: 52 | EXPECTED: BUY , SELL | RX: 0x11:BUY , 0x22:SELL | CORRECT          |  16135.50 us
+[81] TX: 0x11: 64, 0x22: 18 | EXPECTED: BUY , SELL | RX: 0x11:BUY , 0x22:SELL | CORRECT          |  17007.90 us
+[82] TX: 0x22: 77, 0x11:  1 | EXPECTED: BUY , SELL | RX: 0x22:BUY , 0x11:SELL | CORRECT          |  16933.30 us
+[83] TX: 0x11: 83, 0x22:  0 | EXPECTED: BUY , SELL | RX: 0x11:BUY , 0x22:SELL | CORRECT          |  17083.60 us
+[84] TX: 0x22: 76, 0x11: 77 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  16755.00 us
+[85] TX: 0x11: 82, 0x22: 82 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  21076.10 us
+[86] TX: 0x22: 22, 0x11: 13 | EXPECTED: SELL, SELL | RX: 0x22:SELL, 0x11:SELL | CORRECT          |  15019.80 us
+[87] TX: 0x11: 81, 0x22: 72 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  18145.60 us
+[88] TX: 0x22: 86, 0x11: 85 | EXPECTED: BUY , BUY  | RX: 0x22:BUY , 0x11:BUY  | CORRECT          |  13811.90 us
+[89] TX: 0x22: 24, 0x11: 17 | EXPECTED: SELL, SELL | RX: 0x22:SELL, 0x11:SELL | CORRECT          |  16694.80 us
+[90] TX: 0x11: 16, 0x22:  9 | EXPECTED: SELL, SELL | RX: 0x11:SELL, 0x22:SELL | CORRECT          |  17838.10 us
+[91] TX: 0x22: 13, 0x11: 69 | EXPECTED: SELL, BUY  | RX: 0x22:SELL, 0x11:BUY  | CORRECT          |  16039.30 us
+[92] TX: 0x11: 73, 0x22: 87 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  17069.80 us
+[93] TX: 0x11: 72, 0x22: 81 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  16966.30 us
+[94] TX: 0x22: 58, 0x11: 32 | EXPECTED: BUY , SELL | RX: 0x22:BUY , 0x11:SELL | CORRECT          |  16942.70 us
+[95] TX: 0x22: 32, 0x11: 32 | EXPECTED: SELL, SELL | RX: 0x22:SELL, 0x11:SELL | CORRECT          |  16873.70 us
+[96] TX: 0x11: 58, 0x22: 86 | EXPECTED: BUY , BUY  | RX: 0x11:BUY , 0x22:BUY  | CORRECT          |  16943.00 us
+[97] TX: 0x22: 83, 0x11: 47 | EXPECTED: BUY , SELL | RX: 0x22:BUY , 0x11:SELL | CORRECT          |  28220.00 us
+[98] TX: 0x22: 26, 0x11:  7 | EXPECTED: SELL, SELL | RX: 0x22:SELL, 0x11:SELL | CORRECT          |  25573.10 us
+[99] TX: 0x22: 87, 0x11: 38 | EXPECTED: BUY , SELL | RX: 0x22:BUY , 0x11:SELL | CORRECT          |  15836.30 us
+
+========================================
+FINAL TEST RESULTS
+========================================
+Requested packets: 100
+Packets successfully received: 100
+Warm-up packets ignored: 16
+Scored packets (fixed): 84
+Correct packets: 84
+Packet correctness: 100.00%
+Correct individual actions: 168/168
+Action correctness: 100.00%
+Timeouts: 0
+Estimated correctness points: 70.0 / 70
+Average successful round-trip latency: 17247.55 us
+Average successful round-trip latency: 17.248 ms
+UART port: COM5
+UART baud rate: 115200
+Practice seed: 0x57214720
+CSV output: trade_results_100.csv
+Summary output: trade_summary_100.txt
+========================================
+

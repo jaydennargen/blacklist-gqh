@@ -1,0 +1,23 @@
+idx=  0 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |    2324.3 us
+idx=  1 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16971.0 us
+idx=  2 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16972.2 us
+idx=  3 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16957.5 us
+idx=  4 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   17102.7 us
+idx=  5 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16824.6 us
+idx=  6 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16789.8 us
+idx=  7 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   17047.0 us
+idx=  8 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16872.9 us
+idx=  9 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16901.2 us
+idx= 10 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   17000.7 us
+idx= 11 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16957.2 us
+idx= 12 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16911.0 us
+idx= 13 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16930.4 us
+idx= 14 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16964.7 us
+idx= 15 | item 0x11: NONE | item 0x22: NONE | reserved=0x0000 | WARMUP   |   16973.2 us
+idx= 16 | item 0x22: SELL | item 0x11: BUY  | reserved=0x0000 | OK       |   16882.1 us
+idx= 17 | item 0x11: BUY  | item 0x22: SELL | reserved=0x0000 | OK       |   16960.5 us
+idx= 18 | item 0x11: BUY  | item 0x22: SELL | reserved=0x0000 | OK       |   17250.9 us
+idx= 19 | item 0x22: BUY  | item 0x11: SELL | reserved=0x0000 | OK       |   16655.6 us
+idx= 20 | item 0x22: BUY  | item 0x11: SELL | reserved=0x0000 | OK       |   16831.3 us
+
+PASS

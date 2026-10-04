@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.fs binary
+# Bitstreams are build output: keep them out of GitHub's language stats (.fs would count as F#)
+*.fs linguist-generated=true
+*.pdf binary
+# Organizer files are stored byte-for-byte (no line-ending conversion)
+organizer/** -text
+constraints/*.cst -text
